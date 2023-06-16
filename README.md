@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png"
-    width="530" height="250">
+    width="570" height="230">
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 
@@ -47,7 +47,7 @@
 <a href = "https://www.linkedin.com/in/mariam-hussein-m43"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 <p align="left">
-  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://th.bing.com/th/id/R.4cca0e5b7f9c92c5024cc9e4452b7632?rik=X1IG2E5OvtbYOA&pid=ImgRaw&r=0"width="53" height="25"/></a>
+  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://th.bing.com/th/id/OIP.yoSXC-4JQ4AkDuyFIYf5FAHaHa?pid=ImgDet&rs=1"width="53" height="25"/></a>
 </p>
 
 
