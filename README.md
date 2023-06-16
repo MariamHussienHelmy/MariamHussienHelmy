@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png"
-    width="430" height="290">
+    width="490" height="270">
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 
