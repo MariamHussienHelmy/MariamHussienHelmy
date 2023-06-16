@@ -1,11 +1,11 @@
 
 <p align="center">
   <img src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png"
-    width="590" height="220">
+    width="620" height="220">
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien ♥</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+obsessed+of+learning:I+keep+moving+forward;🚀+🚀+🚀+🚀+🚀&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+obsessed+of+learning;I+keep+moving+forward;🚀+🚀+🚀+🚀+🚀&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 ## 🙋‍♂️ About Me
