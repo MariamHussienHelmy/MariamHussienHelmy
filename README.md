@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-</p>
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer.;Always+learning+new+things." alt="Typing SVG" /></a>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 </p> 
 
 ## 🙋‍♂️ About Me
@@ -29,13 +29,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <a href="https://www.cplusplus.com/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</a>
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-</a>
-
+  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -56,9 +51,7 @@
 <a href = "https://www.linkedin.com/in/mariam-hussein-m43"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 <p align="left">
-  <a href="https://codeforces.com/profile/Mariam.Hussien">
-    <img src="https://img.icons8.com/color/48/000000/codeforces.png"/>
-  </a>
+  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://img.icons8.com/color/48/000000/codeforces.png"/></a>
 </p>
 
 
