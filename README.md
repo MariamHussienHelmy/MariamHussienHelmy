@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/OIP.pC7SMLtx42FF5Bwn06E7KwHaHa?pid=ImgDet&rs=1" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/OIP.pC7SMLtx42FF5Bwn06E7KwHaHa?pid=ImgDet&rs=1" height="17px"/></a>
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
@@ -44,8 +44,8 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/mariam-hussein-m43"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-<p align="left">
-  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://img.icons8.com/color/48/000000/codeforces.png"/></a>
+<p align="right">
+  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://img.icons8.com/fluent/48/000000/codeforces.png"/></a>
 </p>
 
 
