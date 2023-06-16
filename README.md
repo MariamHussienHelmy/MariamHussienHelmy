@@ -1,11 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/OIP.pC7SMLtx42FF5Bwn06E7KwHaHa?pid=ImgDet&rs=1" height="17px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png" height="175px"/></a>
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 
 ## 🙋‍♂️ About Me
 
-<img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 - 🌱 I’m currently studing **Computer Science and Artificial Intelligence** at Helwan university
 
@@ -44,8 +44,8 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/mariam-hussein-m43"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-<p align="right">
-  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://img.icons8.com/fluent/48/000000/codeforces.png"/></a>
+<p align="left">
+  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://icons8.com/icon/jldAN67IAsrW/codeforces.-programming-competitions-and-contests%2C-programming-community."/></a>
 </p>
 
 
