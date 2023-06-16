@@ -1,7 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png" height="175px"/></a>
+<a href="#"></a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+  <img src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png" height="175px"/>
+    width="380" height="280">
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 
