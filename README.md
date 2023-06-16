@@ -45,9 +45,7 @@
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/mariam-hussein-m43"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
-<p align="left">
-  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://th.bing.com/th/id/OIP.yoSXC-4JQ4AkDuyFIYf5FAHaHa?pid=ImgDet&rs=1"width="53" height="25"/></a>
+  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://th.bing.com/th/id/OIP.yoSXC-4JQ4AkDuyFIYf5FAHaHa?pid=ImgDet&rs=1"width="50" height="55"/></a>
 </p>
 
 
