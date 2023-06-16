@@ -1,6 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://becomewomancoder.eu/wp-content/uploads/2020/11/logo.png" height="175px"/></a>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+</p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 
 ## 🙋‍♂️ About Me
@@ -45,7 +47,7 @@
 <a href = "https://www.linkedin.com/in/mariam-hussein-m43"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 <p align="left">
-  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://icons8.com/icon/jldAN67IAsrW/codeforces.-programming-competitions-and-contests%2C-programming-community."/></a>
+  <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://th.bing.com/th/id/R.4cca0e5b7f9c92c5024cc9e4452b7632?rik=X1IG2E5OvtbYOA&pid=ImgRaw&r=0"/></a>
 </p>
 
 
