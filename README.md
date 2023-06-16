@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/OIP.pC7SMLtx42FF5Bwn06E7KwHaHa?pid=ImgDet&rs=1" height="175px"/></a>
 
 
-<h1 align="center">Hi <img src="https://example.com/path/to/girl-coder.gif" width="28">, I'm Mariam Hussien</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien</h1>
 
 ## 🙋‍♂️ About Me
 
