@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mariam Hussien ♥</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I+keep+moving+forward;🚀+🚀+🚀+🚀!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+obsessed+of+learning:I+keep+moving+forward;🚀+🚀+🚀+🚀+🚀!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" />
 </p>
 ## 🙋‍♂️ About Me
 
