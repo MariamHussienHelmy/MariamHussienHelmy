@@ -47,7 +47,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "[https://www.linkedin.com/in/mariam-hussein-m43](https://www.linkedin.com/in/mariamhussien/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mariamhussien/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://codeforces.com/profile/Mariam.Hussien"><img src="https://th.bing.com/th/id/OIP.yoSXC-4JQ4AkDuyFIYf5FAHaHa?pid=ImgDet&rs=1"width="50" height="45"/></a>
 </p>
 
